@@ -11,7 +11,7 @@
 ## Installation
 
 ```sh
-$ npm install -g artexpress4-generator
+$ npm install -g artexpress4-generator 
 ```
 
 ## Quick Start
