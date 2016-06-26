@@ -1,6 +1,6 @@
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
 
-[Express'](https://www.npmjs.com/package/express) application generator.
+[Express4](https://www.npmjs.com/package/express) application generator.
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
@@ -11,25 +11,24 @@
 ## Installation
 
 ```sh
-$ npm install -g express-generator
+$ npm install -g artexpress4-generator
 ```
 
 ## Quick Start
 
 The quickest way to get started with express is to utilize the executable `express(1)` to generate an application as shown below:
 
-Create the app && install dependencies:
+Create the app && install dependencies: 
 
 ```bash
 $ npm install
 ```
 
-Rock and Roll
+Start Express Server
 
 ```bash
 $ npm start
 ```
-
 ## Command Line Options
 
 This generator can also be further configured with the following command line flags.
